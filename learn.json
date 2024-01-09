@@ -1,5 +1,5 @@
 {
-    "slug": "javascript-beginner-exercises-tutorial",
+*   "slug": "javascript-beginner-exercises-tutorial",
     "grading": "isolated",
     "language": "node",
     "repository": "https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial",
@@ -22,3 +22,4 @@
         }
     
 }
+ 
